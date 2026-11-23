@@ -72,4 +72,4 @@ This project helped me understand the practical application of Python programmin
 
 Through this project, I learned how to implement a slab-wise billing system and calculate the total electricity bill using different tariff rates. Testing the program with different unit values helped me identify and correct calculation errors and improve the accuracy of the billing logic.
 
-The Electricity Bill Calculator successfully calculates and displays the electricity bill for valid inputs and handles negative unit values appropriately.![Uploading Screenshot 2026-11-23 114918.png…]()
+The Electricity Bill Calculator successfully calculates and displays the electricity bill for valid inputs and handles negative unit values appropriately.
